@@ -7,5 +7,5 @@ Created by MasterTeam:
 
 1. Milena Placheta (Team Leader -> i najladniejsza odslona zespolu)
 2. Krystian Łukowski (inzynier R&D -> najwiekszy malkontent wszystkich zespolow)
-3. Hubert Giemza (grafik, designer -> zawsze na strazy artystycznego porzadku)
+3. Hubert Giemza (starszy inzynier, grafik, designer -> zawsze na strazy artystycznego porzadku)
 4. Arkadiusz Piórkowski (projektant-elektronik -> gotowy na wszystko)
