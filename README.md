@@ -1,6 +1,8 @@
 # SOS
 Aplikacja SOS -> po wpisaniu do telefonu tekstu zostanie on nadany w alfabecie Morse'a poprzez miganie ekranu (lub diody).
 
+Nazwa aplikacji nawiazuje do (chyba) najslynniejszego przekazywanego za posrednictwem kodu Morse'a, rozpoznawalnego na calym swiecie alarmu S.O.S.
+
 Pomysl powstal z powodu obchodzenia 175 urodzin kodu Morse'a i checi polaczenia jednego z pierwszych sposobów telekomunikacji radiowej z najbardziej popularnym dzisiaj sposobem komunikacji miedzyludzkiej - telefonem komórkowym (w najnowszej odslonie zwanej smartphonem).
 
 Created by MasterTeam:
